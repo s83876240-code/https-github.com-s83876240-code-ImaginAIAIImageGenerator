@@ -1,0 +1,5 @@
+{
+  "name": "ImaginAI - AI Image Generator",
+  "description": "A powerful and beautiful AI image generator powered by Google Gemini. Enter a topic or prompt, and watch your ideas come to life instantly.",
+  "requestFramePermissions": []
+}
